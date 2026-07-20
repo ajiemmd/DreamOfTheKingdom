@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f40add6498a90b944978d2f7b38e59e1, type: 3}
   m_Name: MinorEnemy
   m_EditorClassIdentifier: 
-  roomIcon: {fileID: 21300000, guid: e6eed6c2563884002ae7cb10446a7474, type: 3}
-  roomType: 0
+  roomIcon: {fileID: 21300000, guid: c686408f18cbe44268f36bdce12711cb, type: 3}
+  roomType: 1
   SceneToLoad:
-    m_AssetGUID: 
+    m_AssetGUID: 57830f393f6f53349a14dfc27a8c2fe3
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0

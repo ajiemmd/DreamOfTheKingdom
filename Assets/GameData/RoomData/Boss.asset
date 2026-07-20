@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Boss
   m_EditorClassIdentifier: 
   roomIcon: {fileID: 21300000, guid: 84605f03162064daa87d5f4cb8444457, type: 3}
-  roomType: 2
+  roomType: 32
   SceneToLoad:
-    m_AssetGUID: 
+    m_AssetGUID: 16446c19ae16ba34eab21357c169ec27
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
