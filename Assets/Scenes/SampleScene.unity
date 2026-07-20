@@ -151,6 +151,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6553a128a2da6ca4aab7e59283b4d182, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mapConfig: {fileID: 11400000, guid: 33293fa041c25f241910a75a279960d0, type: 2}
+  roomPrefab: {fileID: 8614927530085191470, guid: 0c1c8b1d711b5f34baf23a9952441be9, type: 3}
+  linePrefab: {fileID: 4264003307333567536, guid: 29cdfee7fb65cbc4da09a9ab4e8c07b5, type: 3}
+  border: 1
 --- !u!4 &478671550
 Transform:
   m_ObjectHideFlags: 0
